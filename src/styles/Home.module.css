@@ -6,7 +6,12 @@
   padding: 6rem;
   min-height: 100vh;
 }
-
+.container{
+  background: #1f1f1f;
+}
+.wallet-adapter-button-trigger{
+  background-color: #833bbe;
+}
 .description {
   display: inherit;
   justify-content: inherit;
